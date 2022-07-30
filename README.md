@@ -1,1 +1,6 @@
-# Arousal-and-valence-emotion-classification
+# Arousal and valence emotion classification
+
+It's a basic script for classifying emotions based on the [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/) dataset and Convolutional Neural Networks.
+In this data set, the electroencephalogram (EEG) and peripheral physiological signals of 32 subjects were captured as they saw forty one-minute music video snippets. The participants scored each video's arousal, valence, like/dislike, dominance, and familiarity. Video of the frontal faces of 22 of the 32 participants was also captured. Utilizing retrieval via affective tags from the last.fm website, video highlight recognition, and an online evaluation tool, a novel technique for stimulus selection is provided. A comprehensive analysis of the experiment participants' ratings is offered. The correlations between EEG signal frequency and participant evaluations are examined.
+Methods and outcomes for the classification of single-trial arousal, valence, and like/dislike ratings utilizing EEG, peripheral physiological data, and multimedia content analysis are provided.
+Due to the dataset's End User License Agreement, the primary code used for preprocessing and feature extraction is not provided.
