@@ -1,6 +1,9 @@
 clc
 clear
-close all
+close
+%% '================ Written by Farhad AbedinZadeh ================'
+%                                                                 %
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %  
 %%
 load 'input.mat'
 load 'output_new.mat'
